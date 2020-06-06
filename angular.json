@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pocAngular1"
+    }
+  },
+  "defaultProject": "pocAngular1",
+  "cli": {
+    "analytics": "74c5155e-7b14-4a53-9b91-b00c9dd04f35"
+  }
 }
